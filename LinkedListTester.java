@@ -1,3 +1,7 @@
+/*
+This entire class was created by Philip Heller and is only used as a test for the other classes.
+*/
+
 package linked;
 
 public class LinkedListTester 
